@@ -1,8 +1,9 @@
 import XCTest
+@testable import WebLinking
 import WebLinking
 
 class LinkTests: XCTestCase {
-  var link:Link!
+  var link: Link!
 
   override func setUp() {
     super.setUp()

@@ -4,11 +4,7 @@ Swift implementation of Web Linking ([RFC5988](https://tools.ietf.org/html/rfc59
 
 ## Installation
 
-[CocoaPods](https://cocoapods.org/) is the recommended installation method.
-
-```ruby
-pod 'WebLinking'
-```
+Install as a Swift Package in Xcode
 
 ## Example
 

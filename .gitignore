@@ -1,2 +1,4 @@
 .build/
 Package/
+.DS_Store
+.swiftpm
