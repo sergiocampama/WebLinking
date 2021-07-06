@@ -1,5 +1,9 @@
 import Foundation
 
+#if canImport(FoundationNetworking)
+import FoundationNetworking
+#endif
+
 /// A structure representing a RFC 5988 link.
 public struct Link: Equatable, Hashable {
     /// The URI for the link
